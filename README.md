@@ -1,7 +1,7 @@
 <h1 align="left">hi there 🖐🏻</h1>
 <h3 align="left">a passionate frontend developer</h3>
 
-- 💻 All of my projects are available at [https://abifadilahs.github.io/](abifadilahs.github.io)
+- 💻 All of my projects are available at [abifadilahs.github.io](https://abifadilahs.github.io/)
 - 📩 How to reach me **abi.fadilah.17s@gmail.com**
 - 🧡 Contributing to Open-Source Project
 
