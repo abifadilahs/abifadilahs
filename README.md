@@ -1,6 +1,6 @@
 # Hi 👋, I'm Abi Fadilah
 
-### undergraduted informatic system
+### undergraduated informatic system
 
 - 🔭 I'm currently working on **Sistem Informasi at SMP Shidqia Islamic School**
 
